@@ -1,0 +1,21 @@
+{
+  "name": "jsb-u01-l04-string-methods",
+  "version": "1.0.0",
+  "description": "JavaScript String Methods Coding Challenge - Profile Formatter",
+  "main": "scripts/script.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "javascript",
+    "string-methods",
+    "education"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
